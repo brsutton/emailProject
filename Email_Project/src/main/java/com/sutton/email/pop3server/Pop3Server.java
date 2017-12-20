@@ -29,8 +29,8 @@ public class Pop3Server {
 	UserService userService;
 	private String hostval = "pop.gmail.com";
 	private String mailStrProt = "pop3";
-	private String uname = "brianleesutton1978@gmail.com";
-	private String password = "somePassword123";
+	private String uname = "xxxxxxxxxxxxxxxx";
+	private String password = "xxxxxxxxxxxxxxxxxxx";
 
 	public int checkMail() {
 		try {
